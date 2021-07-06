@@ -1,2 +1,11 @@
-# afigenno
-rebeb
+<!DOCTYPE html>
+<html>
+    <head>
+         <meta charset="UTF-8"/>
+         <title>Страница</title>
+    </head>
+    <body>
+        <i>Привет</i> </br>
+        <a href="https://www.google.com">Привет</a>
+    </body>
+</html>
